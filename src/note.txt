@@ -1,0 +1,2 @@
+1) class="container-fluid"   -   takes whole width 
+2)  ng g d change-bg - to create directry
